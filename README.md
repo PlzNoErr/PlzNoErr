@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac.dldusgkr788](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
- <img src="http://mazandi.herokuapp.com/api?handle={dldusgkr788}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=dldusgkr788&theme=warm"/>
