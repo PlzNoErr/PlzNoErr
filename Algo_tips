@@ -1,11 +1,11 @@
-			// 무작위로 배열 섞기
-			Random rd = new Random();
-			for (int i = n - 1; i > 0; i--) {
-				int j = rd.nextInt(i + 1);
-				int temp = Arr[i];
-				Arr[i] = Arr[j];
-				Arr[j] = temp;
-			}
+// 무작위로 배열 섞기
+Random rd = new Random();
+for (int i = n - 1; i > 0; i--) {
+	int j = rd.nextInt(i + 1);
+	int temp = Arr[i];
+	Arr[i] = Arr[j];
+	Arr[j] = temp;
+}
 			
-      // 그리고 정렬 => 퀵소트의 최악의 경우의 수를 피할 수 있다. 불안하면 3번쯤 무작위 시행을 수행하자.
-			Arrays.sort(Arr);
+// 그리고 정렬 => 퀵소트의 최악의 경우의 수를 피할 수 있다. 불안하면 3번쯤 무작위 시행을 수행하자.
+Arrays.sort(Arr);
