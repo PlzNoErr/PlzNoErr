@@ -84,21 +84,7 @@ IP 프로토콜의 한계
   => URI >> URL, URN
 
   • URL: Uniform Resource Locator
-  • URN: Uniform Resource Name
- 
-///////////////////////////////////
-URL
-
-foo://example.com:8042/over/there?name=ferret#nose 
- \_/ \______________/\_________/ \_________/ \__/ 
- | | | | | 
- scheme authority path query fragment 
- | _____________________|__ 
- / \ / \ 
- urn:example:animal:ferret:nose
- 
- URN (그냥 이런게 있다.)
- ///////////////////////////////////
+  • URN: Uniform Resource Name (거의 사용할 일이 없다)
  
  ==> 지금은 그냥 URL만 쓴다. 따라서 URI = URL로 봐도 무방
  
