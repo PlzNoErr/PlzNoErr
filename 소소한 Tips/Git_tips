@@ -1,7 +1,9 @@
 git 명령어들
 
 git clone 주소
-git push -m "어쩌구 저쩌구"
+git add .
+git commit -m "~~~~"
+git push origin master(main)
 git pull
 git fetch
 git pull origin master
