@@ -1,0 +1,7 @@
+
+
+git pull
+git fetch
+git pull origin master
+git checkout
+git checkout user (branch 새로 생성겸 브랜치 전환)
