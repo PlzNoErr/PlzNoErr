@@ -9,4 +9,4 @@ git fetch
 git pull origin master
 git checkout
 git checkout user (branch 브랜치 전환)
-git branch 이름 (새로운 브랜치 생성)
+git branch -b 이름 (새로운 브랜치 생성)
