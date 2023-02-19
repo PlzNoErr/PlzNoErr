@@ -5,5 +5,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=yellow"/>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusgkr788)](https://solved.ac/dldusgkr788/)
-<img src="http://mazandi.herokuapp.com/api?handle=dldusgkr788&theme=warm" style="margin:30px;" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusgkr788)](https://solved.ac/dldusgkr788/) <br>
+<img src="http://mazandi.herokuapp.com/api?handle=dldusgkr788&theme=warm"/>
