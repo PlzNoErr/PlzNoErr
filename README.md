@@ -6,4 +6,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusgkr788)](https://solved.ac/dldusgkr788/)
-<img src="http://mazandi.herokuapp.com/api?handle=dldusgkr788&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=dldusgkr788&theme=warm" style="margin-left: 10px;" />
