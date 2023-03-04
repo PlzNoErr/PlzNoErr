@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&text=YeonHak%20Lee's%20GitHub&color=auto" />
 </div>
 
-<br><br><br>
+<br><br>
 
 ## 💡Usable Skills
 
